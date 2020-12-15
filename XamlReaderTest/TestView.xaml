@@ -10,5 +10,7 @@
         <Grid.Background>
             <media:AcrylicBrush TintColor="Orange" BlurAmount="4" />
         </Grid.Background>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center">
+            Runtime XAML Loaded Successfully!</TextBlock>
     </Grid>
 </UserControl>
